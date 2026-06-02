@@ -1,4 +1,4 @@
-# 🚀 Timelesss Updates
+# Devsight-ai-news
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 📰 Overview
 
-Timelesss Updates is an intelligent news aggregation platform that automatically curates content from premium sources like BBC, NYT, TechCrunch, and Reuters. Using Google Gemini 2.5 Flash AI, it transforms raw RSS feeds into professionally written articles, publishes them to a modern web interface, and updates every 2 hours via automated workflows.
+Devsight-ai-news is an intelligent news aggregation platform that automatically curates content from premium sources like BBC, NYT, TechCrunch, and Reuters. Using Google Gemini 2.5 Flash AI, it transforms raw RSS feeds into professionally written articles, publishes them to a modern web interface, and updates every 2 hours via automated workflows.
 
 ### What Makes It Special
 
