@@ -6,28 +6,13 @@ DB_NAME = 'blog_automation'
 COLLECTION_NAME = 'articles'
 
 NEWS_SOURCES = [
-    # International News
-    'https://feeds.bbci.co.uk/news/world/rss.xml',
-    'https://feeds.bbci.co.uk/news/technology/rss.xml',
-    'https://rss.nytimes.com/services/xml/rss/nyt/World.xml',
-    'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml',
+    # Ai news 
+    'https://news.mit.edu/topic/artificial-intelligence2',
+    'https://techcrunch.com/category/artificial-intelligence/',
+    'https://spectrum.ieee.org/topic/artificial-intelligence/',
+    'https://thenewstack.io/ai/',
     
-    # Tech & Innovation
-    'https://techcrunch.com/feed/',
-    # 'https://www.wired.com/feed/rss',
     
-    # Science & Health
-    'https://www.sciencedaily.com/rss/all.xml',
-    # 'https://rss.nytimes.com/services/xml/rss/nyt/Health.xml',
-    
-    # Reddit Aggregation
-    # 'https://www.reddit.com/r/worldnews/.rss',
-    # 'https://www.reddit.com/r/technology/.rss',
-    # 'https://www.reddit.com/r/science/.rss',
-    
-    # Additional International
-    # 'https://www.aljazeera.com/xml/rss/all.xml',
-    # 'https://rss.dw.com/rdf/rss-en-all',
 ]
 
 TIMEFRAME_HOURS = 24
